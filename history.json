@@ -1,0 +1,15 @@
+[
+    {
+        "timestamp": "14.10.2024 10:55",
+        "count": 1000,
+        "typo_probability": 0.0,
+        "intent_value": "oleg",
+        "base_phrases": [
+            "oleg ho'che piz`za",
+            "I also want to ask if anyone is doing a similar"
+        ],
+        "linked_phrases": [
+            "to ask"
+        ]
+    }
+]

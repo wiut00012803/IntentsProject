@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "09.12.2024 23:55",
+        "count": 1000,
+        "typo_probability": 0.0,
+        "intent_value": "oleg",
+        "base_phrases": [
+            "я хочу пит'сы",
+            "oleg ho`chet pitzzy",
+            "oleg want pizza?"
+        ],
+        "linked_phrases": [
+            "oleg want"
+        ]
+    }
+]
